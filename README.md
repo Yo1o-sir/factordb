@@ -1,0 +1,2 @@
+# factordb
+写了一个很简单的factordbapi调用工具，就给平时的rsa分解n省去了访问factordb网站等操作
