@@ -1,2 +1,7 @@
 # factordb
 写了一个很简单的factordbapi调用工具，就给平时的rsa分解n省去了访问factordb网站等操作
+
+使用方法：./factordb Number
+推荐将它放到自己环境变量的PATH中，这样就能全局使用factordb了
+
+Yolo正在学习Crypto中，后面如果遇到更多需求会不断更新这个小工具的
